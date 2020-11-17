@@ -1,6 +1,8 @@
-Obecnie przet³umaczone mody (Polish folder)
+Obecnie przet³umaczone mody (Polish folder) v1.0
+Polarisbloc -corelab
 Palarisbolc - Security Force
 Palarisbolc - Mechenemy 
+
 
 jak Zaistalowaæ ? po prostu umieœæ folder Polish w Languages
 Spolszczenie dzia³a do konkretnej modyfikacji wiêc wklejaj¹c spolszenie
